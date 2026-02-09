@@ -11,7 +11,7 @@ The primary objective is to understand:
 * The impact of attendance on outcomes
 * Performance variations by gender and grade
 
-![Student Performance Dashboard](https://i.ibb.co/Sw21yDcN/Student-Performance-Dashboard.png)
+![Student Performance Dashboard](https://i.ibb.co/Y4FVLvDd/Student-Performance-Dashboard.png)
 
 ---
 
